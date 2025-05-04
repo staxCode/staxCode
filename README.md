@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 ![staxcode github stats](https://github-readme-stats.vercel.app/api?username=staxCode&show_icons=true&hide_border=true&theme=merko)
 
