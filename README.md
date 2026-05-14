@@ -86,11 +86,7 @@ Just a dev navigating the galaxy, one commit at a time.
 
 <div align="center">
 
-![staxCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=staxCode&show_icons=true&hide_border=true&theme=merko)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=staxCode&theme=merko&hide_border=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staxCode&layout=compact&theme=merko&hide_border=true)
 
 </div>
 
