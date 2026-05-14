@@ -6,8 +6,8 @@
 
 **staxCode** · *Software Developer · Jedi in Training*
 
-[![Portfolio](https://img.shields.io/badge/Holocron-%23FFE81F.svg?style=for-the-badge&logo=About.me&logoColor=black)](https://pp-personal-portfolio-web-v2.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Holocron-%23FFE81F.svg?style=for-the-badge&logo=About.me&logoColor=black)](https://staxcode.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axcel-anchante-6280611a5)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-id)
 
 > *"In my experience, there's no such thing as luck."* — Obi-Wan Kenobi
@@ -108,7 +108,7 @@ Just a dev navigating the galaxy, one commit at a time.
 | | Detail |
 |---|---|
 | ⚙️ **Stack** | `Astro` · `TypeScript` · `TailwindCSS` |
-|   **Live** | [pp-personal-portfolio-web-v2.vercel.app](https://pp-personal-portfolio-web-v2.vercel.app) |
+|   **Live** | [pp-personal-portfolio-web-v2.vercel.app](https://staxcode.netlify.app) |
 |   **Repo** | [github.com/staxCode/pp-personal_portfolio-web-v2](https://github.com/staxCode/pp-personal_portfolio-web-v2) |
 
 ---
@@ -174,8 +174,8 @@ Just a dev navigating the galaxy, one commit at a time.
 
 | Platform | Link |
 |---|---|
-|  **Portfolio** | [pp-personal-portfolio-web-v2.vercel.app](https://pp-personal-portfolio-web-v2.vercel.app) |
-|  **LinkedIn** | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
+|  **Portfolio** | [pp-personal-portfolio-web-v2.vercel.app](https://staxcode.netlify.app) |
+|  **LinkedIn** | [linkedin.com/in/your-profile](https://www.linkedin.com/in/axcel-anchante-6280611a5) |
 |  **Email** | [your-email@example.com](mailto:your-email@example.com) |
 
 </div>
