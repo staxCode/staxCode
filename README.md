@@ -94,61 +94,11 @@ Just a dev navigating the galaxy, one commit at a time.
 
 ## 🚀 Featured Missions
 
-```diff
-+ REPOSITORIES TRANSMISSION
-```
-
-###    Personal Portfolio v2
-> *"Your focus determines your reality."* — Qui-Gon Jinn
-
-| | Detail |
-|---|---|
-| ⚙️ **Stack** | `Astro` · `TypeScript` · `TailwindCSS` |
-|   **Live** | [pp-personal-portfolio-web-v2.vercel.app](https://staxcode.netlify.app) |
-|   **Repo** | [github.com/staxCode/pp-personal_portfolio-web-v2](https://github.com/staxCode/pp-personal_portfolio-web-v2) |
-
----
-
-###    Password Vault CLI
-> *"A CLIs usefulness is only limited by the imagination."* — adapted
-
-| | Detail |
-|---|---|
-| ⚙️ **Stack** | `TypeScript` · `Node.js` |
-|   **Mission** | CLI tool to securely manage your secrets from the terminal |
-|   **Repo** | [github.com/staxCode/pp-pwvault-cli](https://github.com/staxCode/pp-pwvault-cli) |
-
----
-
-###    Quiz App
-> *"Do. Or do not. There is no try."* — Yoda
-
-| | Detail |
-|---|---|
-| ⚙️ **Stack** | `TypeScript` · `React` |
-|   **Mission** | Interactive quiz app to test your knowledge |
-|   **Repo** | [github.com/staxCode/pp-quizz-app](https://github.com/staxCode/pp-quizz-app) |
-
----
-
-###    Password Generator Web
-> *"Stay safe, padawan."*
-
-| | Detail |
-|---|---|
-| ⚙️ **Stack** | `JavaScript` · `HTML5` · `CSS3` |
-|   **Live** | [randass-generator.netlify.app](https://randass-generator.netlify.app) |
-|   **Repo** | [github.com/staxCode/pp-password_generator-web](https://github.com/staxCode/pp-password_generator-web) |
-
----
-
-###    Advent of Code Scripts
-> *"The greatest teacher, failure is."* — Yoda
-
-| | Detail |
-|---|---|
-|   **Mission** | Algorithmic challenges & logic puzzles solved for fun |
-|   **Repo** | [github.com/staxCode/pl-advent_of_code-scripts](https://github.com/staxCode/pl-advent_of_code-scripts) |
+1. 👨‍💻 **Portfolio v2** — *Built with Astro & TailwindCSS* → [staxcode.netlify.app](https://staxcode.netlify.app)
+2. 🔐 **Password Vault CLI** — *Manage secrets from your terminal with TypeScript* → [repo](https://github.com/staxCode/pp-pwvault-cli)
+3. 📝 **Quiz App** — *Interactive quiz built with TypeScript* → [repo](https://github.com/staxCode/pp-quizz-app)
+4. 🔑 **Password Generator** — *Secure passwords from your browser* → [randass-generator.netlify.app](https://randass-generator.netlify.app)
+5. 🎄 **Advent of Code** — *Logic puzzles & algorithmic challenges* → [repo](https://github.com/staxCode/pl-advent_of_code-scripts)
 
 ---
 
