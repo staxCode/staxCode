@@ -16,7 +16,7 @@
 
 ---
 
-##  About Me
+## 📖 About Me
 
 Just a dev navigating the galaxy, one commit at a time.
 
@@ -24,21 +24,21 @@ Just a dev navigating the galaxy, one commit at a time.
 -  **Droids & Apps** — *I build things that work so you don't have to*
 -  **The Code** — *it's strong with this one... most impressive*
 -  **Learning** — *always seeking new holocrons (knowledge) to study*
--  **Fun fact** — *I still believe Han shot first*
+- ⚡ **Fun fact** — *I still believe Han shot first*
 
 ---
 
-##  Training
+## ⚔️ Training
 
 <div align="center">
 
-###  Languages
+### 💬 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
-###  Frameworks & Runtimes
+### ⚡ Frameworks & Runtimes
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -46,11 +46,11 @@ Just a dev navigating the galaxy, one commit at a time.
 
 ---
 
-##  My Arsenal
+## ⚔️ My Arsenal
 
 <div align="center">
 
-###  Lightsaber Forms
+### ⚔️ Lightsaber Forms
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,19 +58,19 @@ Just a dev navigating the galaxy, one commit at a time.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-###  The Force
+###   The Force
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-###  Holocrons
+###   Holocrons
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-###  Starship Equipment
+###   Starship Equipment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -88,49 +88,20 @@ Just a dev navigating the galaxy, one commit at a time.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=staxCode&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=staxCode&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=staxCode&theme=github_dark)
- -->
-
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=staxCode&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
- -->
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=staxCode&theme=react-dark&hide_border=true)
-
 </div>
 
 ---
 
-##  Featured Missions
+## 🚀 Featured Missions
 
-1.   **Portfolio v2** — *Built with Astro & TailwindCSS* -> [staxcode.netlify.app](https://staxcode.netlify.app)
-2.   **Password Vault CLI** — *Manage secrets from your terminal with TypeScript* -> [repo](https://github.com/staxCode/pp-pwvault-cli)
-3.   **Quiz App** — *Interactive quiz built with TypeScript* -> [repo](https://github.com/staxCode/pp-quizz-app)
-4.   **Password Generator** — *Secure passwords from your browser* -> [randass-generator.netlify.app](https://randass-generator.netlify.app)
-5.   **Advent of Code** — *Logic puzzles & algorithmic challenges* -> [repo](https://github.com/staxCode/pl-advent_of_code-scripts)
-
----
-
-##  Now Listening
-
-> *"The Cantina Band plays on..."*
-
-<div align="center">
-
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-id)
-
-</div>
+1. 👨‍💻 **Portfolio v2** — *Built with Astro & TailwindCSS* → [staxcode.netlify.app](https://staxcode.netlify.app)
+2. 🔐 **Password Vault CLI** — *Manage secrets from your terminal with TypeScript* → [repo](https://github.com/staxCode/pp-pwvault-cli)
+3. 📝 **Quiz App** — *Interactive quiz built with TypeScript* → [repo](https://github.com/staxCode/pp-quizz-app)
+4. 🔑 **Password Generator** — *Secure passwords from your browser* → [randass-generator.netlify.app](https://randass-generator.netlify.app)
+5. 🎄 **Advent of Code** — *Logic puzzles & algorithmic challenges* → [repo](https://github.com/staxCode/pl-advent_of_code-scripts)
 
 ---
 
-##  Contact Me
-
-| Platform | Link |
-|---|---|
-|  **Portfolio** | [staxcode.netlify.app](https://staxcode.netlify.app) |
-|  **LinkedIn** | [linkedin.com/in/axcel-anchante-6280611a5](https://www.linkedin.com/in/axcel-anchante-6280611a5) |
-|  **Email** | [your-email@example.com](mailto:your-email@example.com) |
-
----
 
 <div align="center">
 
@@ -138,6 +109,6 @@ Just a dev navigating the galaxy, one commit at a time.
 
 > *"May the Force be with you."*
 
- **staxCode**
+⭐️ **staxCode**
 
 </div>
