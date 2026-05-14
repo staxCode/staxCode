@@ -152,31 +152,6 @@ Just a dev navigating the galaxy, one commit at a time.
 
 ---
 
-##   Now Listening
-
-<div align="center">
-
-> *"The Cantina Band plays on..."*
-
-[![Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-id)
-
-</div>
-
----
-
-##  Contact Me
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-|  **Portfolio** | [pp-personal-portfolio-web-v2.vercel.app](https://staxcode.netlify.app) |
-|  **LinkedIn** | [linkedin.com/in/your-profile](https://www.linkedin.com/in/axcel-anchante-6280611a5) |
-|  **Email** | [your-email@example.com](mailto:your-email@example.com) |
-
-</div>
-
----
 
 <div align="center">
 
