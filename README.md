@@ -18,7 +18,7 @@
 -  **Droids & Apps** — *I build tools that work so you don't have to, guided by the Force.*
 -  **The Code** — *it's strong with this one... most impressive.*
 -  **Learning** — *always seeking new holocrons (knowledge) to study, the Jedi path is long.*
-- ⚡ **Fun fact** — *I still believe Han shot first.*
+-  **Fun fact** — *I still believe Han shot first.*
 
 ## 🚀 Featured Missions of the Rebel Alliance
 
