@@ -1,7 +1,7 @@
 <div align="center">
 
 # ✨ Hello There ✨
-# **staxCode** · *Software Developer · Jedi in Training*
+**staxCode** · *Software Developer · Jedi in Training*
 
 [![Portfolio](https://img.shields.io/badge/Holocron-%23FFE81F.svg?style=for-the-badge&logo=About.me&logoColor=black)](https://staxcode.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axcel-anchante-6280611a5)
